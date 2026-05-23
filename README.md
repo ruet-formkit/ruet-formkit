@@ -12,7 +12,7 @@ Generate official forms, calculate your CGPA, and manage academic paperwork — 
 [![100% Free](https://img.shields.io/badge/100%25-Free-brightgreen.svg)]()
 [![RUET](https://img.shields.io/badge/Built%20for-RUET-red.svg)]()
 
-[**→ Open FormKit**](https://anantoislamsiyam.github.io/ruet-formkit/) &nbsp;·&nbsp; [Course Registration](https://anantoislamsiyam.github.io/ruet-formkit/course-registration.html) &nbsp;·&nbsp; [Exam Application](https://anantoislamsiyam.github.io/ruet-formkit/form-fillup.html) &nbsp;·&nbsp; [CGPA Calculator](https://anantoislamsiyam.github.io/ruet-formkit/cgpa-calculator.html)
+[**→ Open FormKit**](https://ruet-formkit.github.io/) &nbsp;·&nbsp; [Course Registration](https://ruet-formkit.github.io/course-registration.html) &nbsp;·&nbsp; [Exam Application](https://ruet-formkit.github.io/form-fillup.html) &nbsp;·&nbsp; [CGPA Calculator](https://ruet-formkit.github.io/cgpa-calculator.html)
 
 </div>
 
@@ -122,7 +122,7 @@ Page load
 Clone or download the repository, then open `index.html` in any modern browser.
 
 ```bash
-git clone https://github.com/anantoislamsiyam/ruet-formkit.git
+git clone https://github.com/ruet-formkit/ruet-formkit.github.io.git
 cd ruet-formkit
 # Open index.html in your browser
 ```
